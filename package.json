@@ -7,7 +7,7 @@
     "start": "node server",
     "dev": "nodemon server.js"
   },
-  "author": "Maha Sai",
+  "authors": "Neha", "Maha Sai"
   "license": "ISC",
   "dependencies": {
     "express": "^4.21.2",
